@@ -1,9 +1,16 @@
-# SWERVIN AUTOCONNECT
+# Sistema de Connect
 
 ## REQUIRES
 
-discord.js@13.8.1<br>colors<br>axios
 
-*Não dou suporte para instalação!*
+*Sistema de Connect para sua cidade de FiveM, esse Bot acompanha:
 
-### [By Swervin Studios](https://discord.gg/W3n8N6mxbF)
+1- Quantas Pessoas tem na Cidade.
+
+2- Mostra quando a cidade está OFF e ON.
+
+3- E a possibilidade de colocar o Connect da sua cidade nele.
+
+ADQUIRA JÁ!*
+
+### [https://cutt.ly/Jottafpsstore)
