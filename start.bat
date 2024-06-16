@@ -1,5 +1,5 @@
 @echo off
-title Dev by Swervin
+title SWERVIN STUDIOS
 echo Iniciando BOT [...]                          
 :main
 node .
